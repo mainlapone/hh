@@ -1,6 +1,1 @@
 flask
-cross_origin 
-requests
-CORS
-render_template
-flask_cors
